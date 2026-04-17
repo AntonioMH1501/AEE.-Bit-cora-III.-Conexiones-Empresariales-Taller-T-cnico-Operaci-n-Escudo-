@@ -12,6 +12,12 @@ Dentro de esta fase de investigación, he encontrado los siguientes conceptos cl
 
 -El error “Connection refused” sucede cuando falla la conexión al intentar acceder a un servidor SSH. Este tipo de servidor se conoce como un protocolo de red que permite ejecutar diversas tareas a través de una conexión cifrada y segura, pero que también permite realizar tareas mucho más avanzadas.
 
+Fase Práctica
+
+Dentro de la fase práctica, he encontrado varios problemas a la hora de llevar a cabo la tarea.
+
+Uno de ellos fue que cuando intentaba acceder desde el PowerShell me daba error de timeout, no pidiéndome la contraseña para hacer el acceso falso. Después, cuando escribía el comando para registrar los intentos de acceso, no me salía niguno, porque no pude hacer esto en un primer momento.
+
 Bibliografía
 
 [1] InvGate, "Qué es Syslog: todo lo que necesitas saber," InvGate, 2026. [En línea]. Disponible en: https://blog.invgate.com/es/que-es-syslog. 
